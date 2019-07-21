@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>reldemo</groupId>
-  <artifactId>demorel</artifactId>
+  <artifactId>RELEASE_NAME</artifactId>
   <version>1.0</version>
 
   <name>demorel</name>
